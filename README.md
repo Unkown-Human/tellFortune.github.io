@@ -1,1 +1,1 @@
-# tellFortune.html
+# tellFortune.io
