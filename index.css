@@ -1,0 +1,29 @@
+body
+{
+  background: darkorchid;
+  background: linear-gradient(to right, midnightblue, darkorchid);
+  color: #E2062C;
+  font-family: Gabriola, Verdana;
+  font-size: 22px;
+  //text-shadow: 2px 2px #191970;
+}
+
+#container
+{
+  border: 2px dotted purple;
+  background-color:cosmicblue;
+  margin: 20px;
+  padding: 10px;
+}
+
+#fortune
+{
+  border: 2px;
+  background-color: darkslateblue;
+  padding: 20px;
+}
+
+h1
+{
+  text-shadow:3px 3px purple;
+}
